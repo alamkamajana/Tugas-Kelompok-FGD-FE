@@ -152,3 +152,9 @@ body {
 	font-family: 'Righteous-Regular';
 	src: url('/fonts/Righteous/Righteous-Regular.ttf');
 }
+
+@media (max-width : 670px) {
+	.wrapper {
+		width : 100%;
+		{
+}
